@@ -1,0 +1,5 @@
+SCO_3 30 orange
+SCO_1 10 apple
+SCO_2 20 pineapple
+SCO_3 30 orange
+SCO_4 40 strawberry

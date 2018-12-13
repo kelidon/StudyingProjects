@@ -1,2 +1,2 @@
 # labs.github.io
-bsu
+BSU

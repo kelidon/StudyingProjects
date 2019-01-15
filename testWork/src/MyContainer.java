@@ -25,7 +25,7 @@ public class MyContainer<T extends MyAbstract> extends ArrayList<T> {
         }
     }
     public int frequency(T o) {
-        return Collections.frequency(this, o);
+        return Collections.frequency(this , o);
     }
     public T binarySearch(T o)throws MyException{
         MyContainer temp = (MyContainer)this.clone();
